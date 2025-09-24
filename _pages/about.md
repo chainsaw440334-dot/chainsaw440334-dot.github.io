@@ -22,7 +22,6 @@ Zhou Wei is a graduate student at the [School of Journalism and Communication, N
 
 <br>
 
-<a 
 </a>
 
 <br>
