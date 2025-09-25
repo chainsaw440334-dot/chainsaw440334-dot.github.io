@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /publications/
-title: Publication
-description: The only thing that I know is I know nothing!
+permalink: /Work epx/
+title: Workepx
+description: She has at least four work experiences.
 nav: true
 nav_order: 1
 ---
